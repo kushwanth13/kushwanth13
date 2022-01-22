@@ -2,10 +2,10 @@
 
 [![Kushwanth's github stats](https://github.com/kushwanth13/my-github-stats/blob/main/generated/overview.svg)](https://github.com/kushwanth13/kushwanth13) [![Kushwanth's language stats](https://github.com/kushwanth13/my-github-stats/blob/main/generated/languages.svg)](https://github.com/kushwanth13/kushwanth13)
 
-![metrics](./github-metrics.svg)
+[![metrics](./github-metrics.svg)](https://github.com/kushwanth13/kushwanth13)
 
 <!--
-**suren-atoyan/suren-atoyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**kushwanth13/kushwanth13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
