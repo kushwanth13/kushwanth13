@@ -1,3 +1,2 @@
-/.github
-github-metrics.svg
-.gitignore
+**/.github
+/github-metrics.svg
